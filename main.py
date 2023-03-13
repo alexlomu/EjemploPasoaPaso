@@ -4,8 +4,6 @@ import random
 import os 
 import time
 
-
-
 async def descarga(session, url):
     try:
         inicio = time.monotonic()
